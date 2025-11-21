@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZxjmNZuF3Wk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sayali.rahane\\source\\repos\\AzureFundamentals\\AzureBlobProject\\AzureBlobProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\azure.core\\1.47.3\\azure.core.1.47.3.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\azure.storage.blobs\\12.26.0\\azure.storage.blobs.12.26.0.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\azure.storage.common\\12.25.0\\azure.storage.common.12.25.0.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\system.clientmodel\\1.6.1\\system.clientmodel.1.6.1.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\sayali.rahane\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
