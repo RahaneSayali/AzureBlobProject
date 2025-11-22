@@ -9,7 +9,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddSingleton(u =>
     new BlobServiceClient(
-        builder.Configuration.GetValue<string>("Blobconnection")
+        builder.Configuration.GetValue<string>("BlobConnection")
     ));
 builder.Services.AddSingleton<IContainerService, ContainerService>();
 
