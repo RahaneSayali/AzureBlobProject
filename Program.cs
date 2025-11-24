@@ -12,6 +12,7 @@ builder.Services.AddSingleton(u =>
         builder.Configuration.GetValue<string>("BlobConnection")
     ));
 builder.Services.AddSingleton<IContainerService, ContainerService>();
+builder.Services.AddSingleton<IBlobService, BlobService>();
 
 var app = builder.Build();
 

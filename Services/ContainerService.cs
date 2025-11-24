@@ -30,7 +30,7 @@ namespace AzureBlobProject.Services
               await foreach (BlobContainerItem blobContainerItem in _blobClient.GetBlobContainersAsync())
               {
                 containerName.Add(blobContainerItem.Name);
-            }
+              }
 
               return containerName;
         }
